@@ -1,0 +1,2 @@
+git+git://github.com/spatialcurrent/pyextract.git@master
+numpy

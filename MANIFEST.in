@@ -1,0 +1,8 @@
+include README.*
+include CONTRIBUTING.*
+include AUTHORS
+include LICENSE
+include setup.py
+include setup.cfg
+global-exclude *.pyc
+global-exclude *.pyo
